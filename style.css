@@ -1,26 +1,26 @@
 h1{
-    color: blue;
+    color: firebrick;
 }
 .header *{
     border: solid;
 }
 .header{
-    background-color:#0FAADD;
+    background-color:lightblue;
     display: flex;
     justify-content:space-between;
 }
 .grid{
-    background-color: #10EEAA;
+    background-color: green;
     display: flex;
     flex-wrap: wrap;
     justify-content:center ;
 }
 .footer{
-    background-color: #5FABCD;
+    background-color: grey;
     display: flex;
     justify-content: flex-end;
 }
 h2,p{
-    color:#1025AF;
+    color:blue;
     text-align: center;
 }
